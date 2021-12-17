@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="france" size="0.050000 0.050000" />
+    <ImageTarget name="Mexico" size="0.050000 0.050000" />
+    <ImageTarget name="UAE" size="0.050000 0.050000" />
+    <ImageTarget name="UK" size="0.050000 0.050000" />
+    <ImageTarget name="burj-khalifa" size="0.050000 0.050000" />
+    <ImageTarget name="chichen-itza" size="0.050000 0.050000" />
+    <ImageTarget name="eiffel" size="0.050000 0.050000" />
+    <ImageTarget name="stonehenge" size="0.050000 0.050000" />
+    <ImageTarget name="US" size="0.050000 0.050000" />
+    <ImageTarget name="liberty" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>

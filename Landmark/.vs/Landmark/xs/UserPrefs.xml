@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{4F78075C-F43B-2E42-02CF-F3DB7CEE6497}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DistanceCalc.cs">
+    <Files>
+      <File FileName="Assets/Scripts/orbit.cs" Line="23" Column="89" />
+      <File FileName="Assets/Scripts/quit.cs" Line="19" Column="14" />
+      <File FileName="Assets/Scripts/LoadingScreenManager.cs" Line="77" Column="33" />
+      <File FileName="Assets/Scripts/buttonLoading.cs" Line="15" Column="45" />
+      <File FileName="Assets/Scripts/CameraFocusController.cs" Line="44" Column="56" />
+      <File FileName="Assets/Scripts/RestartLevel.cs" Line="26" Column="39" />
+      <File FileName="Assets/Vuforia/Scripts/VuforiaRuntimeInitialization.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scripts/DistanceCalc.cs" Line="102" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Landmark PreferredExecutionTarget="c113aad7-fe59-433f-9a75-246249ac749f" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
